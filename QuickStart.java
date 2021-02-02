@@ -11,5 +11,6 @@ class QuickStart {
            } 
         });
         t.start();
+        System.out.println("......Hello from main thread.");
     }
 }
